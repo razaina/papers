@@ -1,0 +1,110 @@
+#PartsSearchLong {
+	background-color: #D6560C;
+    float: left;
+    margin: 0 0 13px;
+    padding: 10px 20px;
+    position: relative;
+    width: 573px;
+	color:white;
+}
+h4 {
+    font-size: 15px;
+	margin: 0px;
+}
+h5 {
+    font-size: 12px;
+    margin: 0 0 5px;
+}
+ul#datasheets_list {
+    list-style: none outside none;
+    margin: 0 0 0 1px;
+    padding: 0;
+	line-height::14.em
+}
+ul#datasheets_list li.selected {
+    color: black;
+}
+ul#datasheets_list li.selected {
+    background-color: #FCD241;
+}
+ul#datasheets_list li {
+    color: White;
+    cursor: pointer;
+    float: left;
+    font-size: 12pt;
+    height: 20px;
+    margin: 0;
+    padding: 5px 7px;
+}
+#PartsSearchLong_Text {
+    border: 2px solid #125163;
+    height: 26px;
+    line-height: 26px;
+    padding: 4px 5px 3px;
+    width: 430px;
+}
+.searchStyle {
+    color: #999999;
+    font-style: italic;
+}
+#PartsSearchLong_Submit {
+    background-color: #FCD241;
+    border: 2px solid #125163;
+    cursor: pointer;
+    font-size: 12pt;
+    height: 36px;
+    padding: 1px 8px 3px;
+}
+#PartsSearchShort {
+    background-color: #D55105;    
+    color: #ffffff;
+    float: left;
+    margin: 0 0 26px;
+    position: relative;
+    width: 336px;
+}
+#PartsSearchShort_Text {
+    border: 2px solid #125163;
+    height: 27px;
+    line-height: 16px;
+    padding: 4px 5px 2px;
+    width: 190px;
+}
+#PartsSearchShort_Submit {
+    background-color: #FCD241;
+    border: 2px solid #125163;
+    cursor: pointer;
+    font-size: 10pt;
+    height: 27px;
+    width: 120px;
+    padding: 3px 8px;
+}
+#PartsSearchReallyShort { 
+    color: #ffffff;
+    float: left;
+    margin: 0;
+    position: relative;
+    width: 182px;
+}
+#PartsSearchReallyShort_Text {
+    border: 2px solid #125163;  
+    border-width:2px 1px 2px 2px;  
+    height: 23px;
+    line-height: 12px;
+    padding: 4px 1px 2px 3px;  
+    float:left;  
+    font-size:11px;
+    width: 148px;
+}
+#PartsSearchReallyShort_Submit {
+    background-image:url("http://img.deusm.com/eetimes/search_icon.jpg");
+    cursor: pointer;
+    height: 23px;
+    margin-top: 0;
+    overflow: visible;
+    padding: 1px 0;
+    vertical-align: bottom;
+    width: 34px;        
+    border-color: #125163;
+    background-color:#D55105;        
+}

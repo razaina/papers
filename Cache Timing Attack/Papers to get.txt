@@ -1,0 +1,3 @@
+R.Owens and W. Wang, Non-interactive OS fingerprinting through memory de-duplication
+V. Saraswat, D. Feldman, D.F. Kune, and S. Das. Remote Cache-timing attacks against AES
+
